@@ -4,10 +4,10 @@
 **jsamiksha1/jsamiksha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <h2>About Me</h2>
 
-🎓 I'm a developer, and sophomore at IGDTUW, IT.
-🌱 I’m currently practising DSA in C++.
-💡 Interested in working alongside like-minded people.
-💞️ Firm believer of tech for good , would love to collaborate to make projects that make an impact.
+-🎓 I'm a developer, and sophomore at IGDTUW, IT.
+-🌱 I’m currently practising DSA in C++.
+-💡 Interested in working alongside like-minded people.
+-💞️ Firm believer of tech for good , would love to collaborate to make projects that make an impact.
 
 
 <h2>Languages and Tools</h2>
