@@ -10,7 +10,7 @@
 
 -💡 Interested in working alongside like-minded people.
 
--💞️ Firm believer of tech for good , would love to collaborate to make projects that make an impact.
+-💞️ Firm believer of tech for good , I'd love to work with you on projects that have an impact.
 
 
 <h2>Languages and Tools</h2>
