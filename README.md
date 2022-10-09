@@ -1,4 +1,4 @@
-### Hi, I am Samiksha Jain 👋
+### Hi, I am Samiksha Jain 
 
 <!--
 **jsamiksha1/jsamiksha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
